@@ -1,0 +1,1 @@
+this repo is for learning web dev from sheriyans coding school.
