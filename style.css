@@ -15,7 +15,7 @@ html,body{
 } */
 
 #nav{
-    height: 100px;
+    height: 80px;
     width: 100%;
     /* background-color: red; */
     display: flex;
@@ -60,7 +60,7 @@ html,body{
     border: none;
 }
 #main>h1{
-    font-size: 150px;
+    font-size: 120px;
     text-transform: uppercase;
     position: absolute;
     top: 50%;
@@ -71,8 +71,8 @@ html,body{
 }
 
 img{
-    height: 500px;
-    width: 400px;
+    height: 450px;
+    width: 375px;
     object-fit: cover;
     object-position: top;
     border-radius: 20px;
